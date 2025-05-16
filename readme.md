@@ -84,8 +84,3 @@ Displays the proportion of each disability type within the special needs student
 
 **Note:**  
 All data and analysis are for educational and research purposes. For more details, see the original dataset and the full paper in this repository.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/29632857/08bec281-122f-451f-a511-f1df93d5311d/paper.pdf
-[2] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/29632857/08bec281-122f-451f-a511-f1df93d5311d/paper.pdf
-
